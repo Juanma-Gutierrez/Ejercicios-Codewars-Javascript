@@ -23,6 +23,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 -   15/08/22 Multiples of 3 or 5
 -   15/08/22 Who likes it!
 -   16/08/22 Decode the Morse code
+-   01/09/22 Consecutive string
 
 ## Lenguajes empleados:
 
