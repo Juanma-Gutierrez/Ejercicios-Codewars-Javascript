@@ -26,6 +26,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 -   01/09/22 Consecutive string
 -   01/09/22 Square(n) sum
 -   01/09/22 Counting sheep...
+-   01/09/22 Is this a triangle?
 
 ## Lenguajes empleados:
 
