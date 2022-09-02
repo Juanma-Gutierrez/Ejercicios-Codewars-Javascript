@@ -12,21 +12,22 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 
 ## Lista de ejercicios realizados:
 
--   14/08/22 Categoriza new member
--   14/08/22 ComplementaryDNA
--   14/08/22 Convert string to camel_case
--   14/08/22 Credit card mask
--   14/08/22 Find the divisors
--   14/08/22 Stop gninnipS My sdroW!
--   14/08/22 You're a square!
--   15/08/22 Duplicate encoder
--   15/08/22 Multiples of 3 or 5
--   15/08/22 Who likes it!
--   16/08/22 Decode the Morse code
--   01/09/22 Consecutive string
--   01/09/22 Square(n) sum
--   01/09/22 Counting sheep...
--   01/09/22 Is this a triangle?
+-   Ago 22 Categoriza new member
+-   Ago 22 ComplementaryDNA
+-   Ago 22 Convert string to camel_case
+-   Ago 22 Credit card mask
+-   Ago 22 Find the divisors
+-   Ago 22 Stop gninnipS My sdroW!
+-   Ago 22 You're a square!
+-   Ago 22 Duplicate encoder
+-   Ago 22 Multiples of 3 or 5
+-   Ago 22 Who likes it!
+-   Ago 22 Decode the Morse code
+-   Sep 22 Consecutive string
+-   Sep 22 Square(n) sum
+-   Sep 22 Counting sheep...
+-   Sep 22 Is this a triangle?
+-   Sep 22 Keep Hydrated!
 
 ## Lenguajes empleados:
 
