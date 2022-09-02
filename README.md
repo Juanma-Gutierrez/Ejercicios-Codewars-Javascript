@@ -28,6 +28,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 -   Sep 22 Counting sheep...
 -   Sep 22 Is this a triangle?
 -   Sep 22 Keep Hydrated!
+-   Sep 22 Binary Addition
 
 ## Lenguajes empleados:
 
