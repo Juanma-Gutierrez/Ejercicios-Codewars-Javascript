@@ -30,6 +30,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 -   Sep 22 Keep Hydrated!
 -   Sep 22 Binary Addition
 -   Sep 22 Printer Errors
+-   Sep 22 Opposite number
 
 ## Lenguajes empleados:
 
