@@ -42,6 +42,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 28. Sep 22 - Replace with alphabet position
 29. Sep 22 - Beginner Series #3 Sum of numbers
 30. Sep 22 - Abbreviate a two word name
+31. Sep 22 - Convert boolean values to strings 'Yes' or 'No'
 
 ## Lenguajes empleados:
 
