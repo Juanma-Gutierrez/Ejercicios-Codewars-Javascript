@@ -34,6 +34,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 20. Sep 22 - Opposite number
 21. Sep 22 - Counting duplicates
 22. Sep 22 - Two to One
+23. Sep 22 - Get the middle character
 
 ## Lenguajes empleados:
 
