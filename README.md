@@ -36,6 +36,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 22. Sep 22 - Two to One
 23. Sep 22 - Get the middle character
 24. Sep 22 - String repeat
+25. Sep 22 - Function 1 - hello world
 
 ## Lenguajes empleados:
 
