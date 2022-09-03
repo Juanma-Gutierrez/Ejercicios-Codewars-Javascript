@@ -1,9 +1,10 @@
 function addBinary(a, b) {
     let sum = "";
     let res = a + b;
+    let base = "01"; // podemos usar cualquier base modificando esta cadena
     while (res > 0) {
-        res % 2 == 0 ? (sum = "0" + sum) : (sum = "1" + sum);
-        res = Math.floor(res / 2);
+        sum = base[res % base.length] + sum;
+        res = Math.floor(res / base.length);
     }
     return sum;
 }
