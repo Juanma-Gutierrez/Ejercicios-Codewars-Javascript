@@ -40,6 +40,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 26. Sep 22 - Friend or foe?
 27. Sep 22 - Remove first and last character
 28. Sep 22 - Replace with alphabet position
+29. Sep 22 - Beginner Series #3 Sum of numbers
 
 ## Lenguajes empleados:
 
