@@ -39,6 +39,7 @@ También se incluyen para cada ejercicio varias alternativas creadas por los usu
 25. Sep 22 - Function 1 - hello world
 26. Sep 22 - Friend or foe?
 27. Sep 22 - Remove first and last character
+28. Sep 22 - Replace with alphabet position
 
 ## Lenguajes empleados:
 
