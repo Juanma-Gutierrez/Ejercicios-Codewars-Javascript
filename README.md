@@ -6,7 +6,7 @@ Repositorio con ejercicios de la web Codewars realizados en Javascript
 
 ## Comenzando 🚀
 
-Cada ejercicio está probado y funciona correctamente sobre la plataforma Codewars a la fecha de publicación indicada en este Readme. Todos tienen el enunciado del ejercicio como fichero **Instructions.md** donde puedes ver lo que se solicita.
+Cada ejercicio está probado y funciona correctamente sobre la plataforma Codewars a la fecha de publicación indicada en este Readme. Todos tienen el enunciado del ejercicio como fichero **README.md** donde puedes ver lo que se solicita.
 
 También se incluyen para cada ejercicio varias alternativas creadas por los usuarios.
 
